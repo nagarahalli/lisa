@@ -1,6 +1,8 @@
 Introduction |CI status| |Documentation Status|
 ===================================================
 
+blah blah blah 
+
 The LISA project provides a toolkit that supports regression testing and
 interactive analysis of Linux kernel behavior. LISA stands for Linux
 Integrated/Interactive System Analysis. LISA's goal is to help Linux
